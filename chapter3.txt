@@ -1,0 +1,3 @@
+In this portion, I will begin building the basic bones of the project in VSCode
+
+The goal is to use React as much as possible so that I can become more familiarized with the usage.
